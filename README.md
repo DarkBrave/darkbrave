@@ -1,4 +1,4 @@
-### Hi! I'm DarkBrave_!
+# Hi! I'm DarkBrave_!
 
 This is my GitHub profile, where I post most of my code.
 I also have a YouTube channel (DarkBrave_) where I post videos.
