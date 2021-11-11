@@ -1,6 +1,6 @@
 # Hi! I'm DarkBrave!
 
-## I RECENTLY HID A BUNCH OF REPOSITORIES; DO NOT CONTACT ME ABOUT IT!
+## <span style="color:red">I RECENTLY HID A BUNCH OF REPOSITORIES; DO NOT CONTACT ME ABOUT IT!</span>
 
 This is my GitHub profile, where I post most of my code.
 I also have a YouTube channel (DarkBrave) where I post videos.
