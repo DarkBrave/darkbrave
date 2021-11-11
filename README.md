@@ -1,5 +1,7 @@
 # Hi! I'm DarkBrave!
 
+## NOTICE: I RECENTLY PRIVATED A BUNCH OF REPOSITORIES; DO NOT CONTACT ME ABOUT IT!
+
 This is my GitHub profile, where I post most of my code.
 I also have a YouTube channel (DarkBrave) where I post videos.
 I am currently learning to code in Java, and I already know basic HTML and CSS.
