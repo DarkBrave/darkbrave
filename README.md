@@ -11,5 +11,5 @@ Feel free to contact me on Discord, my username is: DarkBrave#9975
 
 Learn more: https://darkbrave.github.io
 
-[![DarkBrave's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkBrave&show_icons=true&theme=dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkBrave&show_icons=true&theme=dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![DarkBrave's GitHub stats](./profile/stats.svg)](https://github.com/darkbrave)
+[![Top Langs](./profile/top-langs.svg)](https://github.com/darkbrave)
