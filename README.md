@@ -5,9 +5,10 @@
 ![GitHub Org's stars](https://img.shields.io/github/stars/lightningcoredev?label=org%20stars&style=flat-square)
 
 This is my GitHub profile, where I post most of my code.
-I also have a YouTube channel (DarkBrave) where I post videos.
-I am currently learning to code in Java, and I already know basic HTML and CSS.
-Feel free to contact me on Discord, my username is: DarkBrave#9975
+A lot of it is private, but a decent amount of it is public.
+I also have a YouTube channel (DarkBrave) where I post videos rarely.
+I used to do HTML/CSS and Java, but now mostly do Arduino (C++) and R (and associated libraries) for research.
+Feel free to contact me on Discord, my username is `DarkBrave`.
 
 Learn more: https://darkbrave.github.io
 
